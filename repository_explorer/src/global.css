@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font: 14px 'Rubik', sans-serif;
+    color: #FFF;
+    background-color: #25252B;
+}
+
+input, button {
+    font: 18px 'Rubik', sans-serif;
+}
